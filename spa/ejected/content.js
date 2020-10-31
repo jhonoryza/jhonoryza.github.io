@@ -43,7 +43,7 @@ const contentSource = [{
 "type": "index",
 "filename": "index.json",
 "fields": {
-	"title": "Welcome to Plenti!",
+	"title": "Welcome to My Blog!",
 	"intro": [
 		"Take a look around to see how things work.",
 		"The bottom of each page will tell you where to find the corresponding template in your project.",
