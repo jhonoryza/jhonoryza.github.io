@@ -1,5 +1,5 @@
 {
-	"baseurl": "https://fun.labkita.my.id/static-fun",
+	"baseurl": "https://fun.labkita.my.id",
 	"title": "My New Plenti Site",
 	"types": {
 		"pages": "/:filename"
