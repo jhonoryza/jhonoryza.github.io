@@ -1,5 +1,5 @@
 {
-	"baseurl": "http://example.org/",
+	"baseurl": "https://fun.labkita.my.id/static-fun",
 	"title": "My New Plenti Site",
 	"types": {
 		"pages": "/:filename"
